@@ -37,10 +37,16 @@ Config.notlauch.master = true      -- Enforce custom launcher usage
 
 Each section comes with localized messages for better UX and debugging.
 
+🧩 Dependencies
+----------------
+This resource requires the following dependency for Discord role verification:
+
+- [Badger_Discord_API](https://github.com/JaredScar/Badger_Discord_API)
+
 🛠️ Installation
 ----------------
 1. Download or clone the repository:
-   git clone https://github.com/CodeLabFivem/cl-masterblocker.git
+   git clone https://github.com/yourusername/identity-verification-fivem.git
 
 2. Add the resource to your server.cfg:
    ensure identity-verification-fivem
