@@ -49,4 +49,4 @@ This resource requires the following dependency for Discord role Queue System:
    git clone https://github.com/CodeLabFivem/cl-masterblocker.git
 
 2. Add the resource to your server.cfg:
-   ensure identity-verification-fivem
+   ensure cl-masterblocker
