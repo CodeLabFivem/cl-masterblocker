@@ -39,7 +39,7 @@ Each section comes with localized messages for better UX and debugging.
 
 🧩 Dependencies
 ----------------
-This resource requires the following dependency for Discord role verification:
+This resource requires the following dependency for Discord role Queue System:
 
 - [Badger_Discord_API](https://github.com/JaredScar/Badger_Discord_API)
 
