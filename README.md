@@ -40,7 +40,7 @@ Each section comes with localized messages for better UX and debugging.
 🛠️ Installation
 ----------------
 1. Download or clone the repository:
-   git clone https://github.com/yourusername/identity-verification-fivem.git
+   git clone https://github.com/CodeLabFivem/cl-masterblocker.git
 
 2. Add the resource to your server.cfg:
    ensure identity-verification-fivem
