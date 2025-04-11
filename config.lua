@@ -22,7 +22,7 @@ Config.devmode = {
     discord = true,  -- Enable Discord role verification for developers (true/false)
     guildId = "",  -- Discord server ID for developer verification
     roleId = "",  -- Discord role ID required for developer access
-    -- Note: Bot token is configured in server/devmode.lua
+    -- Note: Bot token is configured in server/server.lua
 }
 
 -- CFX ID configuration
